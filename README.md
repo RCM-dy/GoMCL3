@@ -8,4 +8,4 @@
 <code>go build .</code>
 
 # 下载
-<a herf="https://github.com/minecraftlaun/GoMCL3">github</a>
+<a>[github](https://github.com/minecraftlaun/GoMCL3)</a>
